@@ -36,13 +36,13 @@ As far as my contributions go, I thought I did a good job of taking charge and u
 
 I had a large impact on the test writing and while I definitely think some tests can be more robust, we were able to test the main functionality in the time we had. Also, testing poros, services and facades was new to us and we both had a helping hand working together to make sure we checked that box. 
 
-I provided good organization and attention to detail that was displayed multiple times throughout the project. There were many instances where we were stuck for a bit and I was able to find a few silly mistakes that were an easy fix in the end and saved time. 
+I provided good organization and strong attention to detail that was displayed multiple times throughout the project. There were many instances where we were stuck for a bit and I was able to find a few silly mistakes that were an easy fix in the end and saved time. 
 
 - Code
 
 I am most proud of the way we were both able to implement poros, services and facades with little to no experience. We both utilized the docs, lesson plans and mentors to help us get to where we needed to be while also doing a lot of trial and error. Being able to pass our tests through what seemed to be so many moving pieces was very rewarding to see. 
 
-What I am curious about are our controllers. Is it ok to have many different variables to call on in our conrollers? Also, we have a .count in there that we weren't quite sure where else to put? Maybe a model?
+What I am curious about are our controllers. Is it ok to have many different variables to call on in our conrollers? Whats a good limit to keep under? Also, we have a .count in there that we weren't quite sure where else to put? Maybe a model?
 
 If we had more time, we would have like to learn more about testing the facade - we only were able to add one test to it and weren't sure what else to do. Also, we would also like to use WebMock and VCR. We were making API calls everytime which I know isn't good practice we just didn't get a chance to add it at the pace we were working. 
 
